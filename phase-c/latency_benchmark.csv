@@ -1,0 +1,101 @@
+﻿query_idx,query,answer,L1_ms,L2_ms,L3_ms,total_ms
+0,Thuế GTGT phải nộp trong kỳ (dòng 40) là bao nhiêu?,"Tổng doanh thu và thuế GTGT của hàng hóa, dịch vụ bán ra là 3.703.655.610 đồng [",81.0,879.6,31.0,991.6
+1,Công ty nộp thuế theo kỳ nào?,Thuế GTGT phải nộp trong kỳ là 52.133.830 đồng theo tờ khai 01/GTGT.,3.5,803.4,43.0,849.9
+2,Tên người nộp thuế là gì?,Thuế GTGT còn được khấu trừ kỳ trước chuyển sang là 77.377.803 đồng [22].,2.9,897.7,43.9,944.5
+3,Mã số thuế của công ty DHA là gì?,"Tổng doanh thu và thuế GTGT của hàng hóa, dịch vụ bán ra là 3.703.655.610 đồng [",3.0,1002.8,38.4,1044.2
+4,Thuế GTGT đầu vào được khấu trừ kỳ này là bao nhiêu?,Kỳ tính thuế là Quý 4 năm 2024 theo tờ khai 01/GTGT.,3.3,791.9,46.1,841.3
+5,Tổng giá trị hàng hóa dịch vụ mua vào là bao nhiêu?,"Xin loi, toi khong the xu ly yeu cau nay. Vui long dat cau hoi ve tai chinh hoac",3.2,791.9,52.8,847.9
+6,Hàng hóa bán ra chịu thuế suất 10% có giá trị bao nhiêu?,Công ty CÓ PHẦN DHA SURFACES có mã số thuế 0106769437.,3.5,1009.5,70.6,1083.6
+7,Thuế GTGT còn khấu trừ kỳ trước chuyển sang là bao nhiêu?,"Hàng hóa, dịch vụ bán ra chịu thuế suất 10% có giá trị 3.703.685.610 đồng [32].",3.2,912.1,50.1,965.4
+8,Thuế GTGT phát sinh trong kỳ là bao nhiêu?,Thuế GTGT phải nộp trong kỳ là 52.133.830 đồng theo tờ khai 01/GTGT.,2.8,763.7,51.1,817.6
+9,Tổng doanh thu hàng bán ra là bao nhiêu?,"Theo Nghị định 13/2023, xử lý dữ liệu cá nhân phải tuân thủ: hợp pháp, minh bạch",2.7,885.1,47.1,934.9
+10,Hàng hóa nhập khẩu trong kỳ có giá trị bao nhiêu?,"Xin loi, toi khong the xu ly yeu cau nay. Vui long dat cau hoi ve tai chinh hoac",2.9,764.4,25.0,792.3
+11,Thuế GTGT điều chỉnh giảm kỳ trước là bao nhiêu?,Thuế GTGT còn được khấu trừ kỳ trước chuyển sang là 77.377.803 đồng [22].,3.1,764.1,47.7,814.9
+12,Tờ khai áp dụng mẫu số nào?,"Xin loi, toi khong the xu ly yeu cau nay. Vui long dat cau hoi ve tai chinh hoac",2.9,849.0,48.7,900.6
+13,Hàng hóa bán ra chịu thuế suất 5% có giá trị bao nhiêu?,"Tổng doanh thu và thuế GTGT của hàng hóa, dịch vụ bán ra là 3.703.655.610 đồng [",3.3,590.4,77.6,671.3
+14,Thuế GTGT chưa khấu trừ hết kỳ này là bao nhiêu?,"Chuyển giao dữ liệu cá nhân ra nước ngoài cần: đánh giá tác động, hợp đồng, biện",3.0,613.0,45.7,661.7
+15,Hàng hóa bán ra không chịu thuế GTGT là bao nhiêu?,Thuế GTGT đầu vào được khấu trừ kỳ này là 215.163.767 đồng.,2.9,752.5,51.6,807.0
+16,Nguyên tắc nào chi phối việc xử lý dữ liệu cá nhân?,"Theo Nghị định 13/2023, xử lý dữ liệu cá nhân phải tuân thủ: hợp pháp, minh bạch",3.2,698.5,47.6,749.3
+17,Thời hạn báo cáo sự cố rò rỉ dữ liệu là bao lâu?,Công ty CÓ PHẦN DHA SURFACES có mã số thuế 0106769437.,3.1,857.7,34.0,894.8
+18,Điều kiện chuyển giao dữ liệu cá nhân ra nước ngoài gồm gì?,Thuế GTGT còn được khấu trừ kỳ trước chuyển sang là 77.377.803 đồng [22].,3.1,711.0,61.7,775.8
+19,Chủ thể dữ liệu phải được thông báo điều gì trước khi thu th,"Chuyển giao dữ liệu cá nhân ra nước ngoài cần: đánh giá tác động, hợp đồng, biện",3.5,650.5,57.0,711.0
+20,Tên hoạt động sản xuất kinh doanh của DHA là gì?,"Xin loi, toi khong the xu ly yeu cau nay. Vui long dat cau hoi ve tai chinh hoac",3.1,995.9,57.5,1056.5
+21,Người ký tờ khai là ai?,"Xin loi, toi khong the xu ly yeu cau nay. Vui long dat cau hoi ve tai chinh hoac",2.7,792.9,37.1,832.7
+22,Tờ khai được nộp lần đầu hay bổ sung?,"Xin loi, toi khong the xu ly yeu cau nay. Vui long dat cau hoi ve tai chinh hoac",2.9,828.1,64.8,895.8
+23,Thuế GTGT đề nghị hoàn là bao nhiêu?,Sự cố rò rỉ dữ liệu phải được báo cáo trong vòng 72 giờ kể từ khi phát hiện (the,2.8,649.0,31.2,683.0
+24,Thuế GTGT còn khấu trừ chuyển kỳ sau là bao nhiêu?,Thuế GTGT đầu vào được khấu trừ kỳ này là 215.163.767 đồng.,3.2,754.7,55.0,812.9
+25,Tại sao thuế GTGT còn khấu trừ kỳ trước không làm số thuế ph,Sự cố rò rỉ dữ liệu phải được báo cáo trong vòng 72 giờ kể từ khi phát hiện (the,3.6,833.3,74.3,911.2
+26,Vì sao không có hàng chịu thuế suất 0% và 5% trong kỳ?,"Tổng doanh thu và thuế GTGT của hàng hóa, dịch vụ bán ra là 3.703.655.610 đồng [",3.3,681.9,36.1,721.3
+27,Công ty có thể khấu trừ bao nhiêu thuế GTGT đầu vào và tỷ lệ,Thuế GTGT phải nộp trong kỳ là 52.133.830 đồng theo tờ khai 01/GTGT.,3.7,865.1,41.2,910.0
+28,Tại sao nghĩa vụ thông báo mục đích xử lý dữ liệu quan trọng,Thuế GTGT đầu vào được khấu trừ kỳ này là 215.163.767 đồng.,4.8,747.9,49.2,801.9
+29,Giới hạn 72 giờ báo cáo sự cố quan trọng hơn báo cáo sau điề,"Xin loi, toi khong the xu ly yeu cau nay. Vui long dat cau hoi ve tai chinh hoac",3.9,785.0,42.0,830.9
+30,Thuế GTGT phải nộp 52 triệu phản ánh gì về hoạt động kinh do,"Chuyển giao dữ liệu cá nhân ra nước ngoài cần: đánh giá tác động, hợp đồng, biện",3.6,747.8,29.4,780.8
+31,Hậu quả nào xảy ra nếu công ty khai sai thuế GTGT đầu vào?,Công ty CÓ PHẦN DHA SURFACES có mã số thuế 0106769437.,3.2,1042.3,48.8,1094.3
+32,Tại sao Nghị định 13/2023 yêu cầu đánh giá tác động trước kh,"Chuyển giao dữ liệu cá nhân ra nước ngoài cần: đánh giá tác động, hợp đồng, biện",4.1,818.4,35.3,857.8
+33,Doanh nghiệp chịu trách nhiệm gì khi xảy ra sự cố rò rỉ dữ l,Thuế GTGT phải nộp trong kỳ là 52.133.830 đồng theo tờ khai 01/GTGT.,3.8,693.1,53.7,750.6
+34,Tại sao điều chỉnh thuế GTGT [37] và [38] đều bằng 0 trong k,Thuế GTGT đầu vào được khấu trừ kỳ này là 215.163.767 đồng.,3.8,918.7,37.0,959.5
+35,Nếu doanh nghiệp không có chữ ký điện tử hợp lệ thì tờ khai ,"Chuyển giao dữ liệu cá nhân ra nước ngoài cần: đánh giá tác động, hợp đồng, biện",3.7,673.5,66.6,743.8
+36,Công ty có nghĩa vụ bảo vệ dữ liệu như thế nào khi xử lý dữ ,Thuế GTGT còn được khấu trừ kỳ trước chuyển sang là 77.377.803 đồng [22].,4.0,845.1,38.6,887.7
+37,So sánh tỷ lệ thuế GTGT đầu ra và đầu vào của DHA trong Q4/2,Thuế GTGT phải nộp trong kỳ là 52.133.830 đồng theo tờ khai 01/GTGT.,3.6,584.8,44.1,632.5
+38,Nghĩa vụ của DHA vừa là người nộp thuế vừa là tổ chức xử lý ,"Hàng hóa, dịch vụ bán ra chịu thuế suất 10% có giá trị 3.703.685.610 đồng [32].",3.5,660.6,57.8,721.9
+39,Hai nghĩa vụ phải thực hiện đồng thời nếu DHA bị rò rỉ dữ li,Thuế GTGT phải nộp trong kỳ là 52.133.830 đồng theo tờ khai 01/GTGT.,3.6,843.6,33.2,880.4
+40,Quy trình nào cần theo nếu DHA muốn chia sẻ dữ liệu tài chín,Thuế GTGT phải nộp trong kỳ là 52.133.830 đồng theo tờ khai 01/GTGT.,3.8,908.6,50.7,963.1
+41,Sự minh bạch trong xử lý dữ liệu và kê khai thuế có điểm chu,Công ty CÓ PHẦN DHA SURFACES có mã số thuế 0106769437.,4.2,840.6,63.7,908.5
+42,Mối liên hệ giữa mã số thuế 0106769437 và dữ liệu cá nhân th,Công ty CÓ PHẦN DHA SURFACES có mã số thuế 0106769437.,4.3,806.1,28.7,839.1
+43,Điều gì xảy ra nếu DHA không tuân thủ cả nghĩa vụ thuế và bả,Sự cố rò rỉ dữ liệu phải được báo cáo trong vòng 72 giờ kể từ khi phát hiện (the,3.6,783.9,50.2,837.7
+44,Kỳ tính thuế Q4/2024 trùng với giai đoạn nào trong vòng đời ,Kỳ tính thuế là Quý 4 năm 2024 theo tờ khai 01/GTGT.,3.8,642.6,51.1,697.5
+45,Công ty ký điện tử tờ khai — quy trình này liên quan đến bảo,Công ty CÓ PHẦN DHA SURFACES có mã số thuế 0106769437.,5.3,733.6,57.4,796.3
+46,Tổng nghĩa vụ tài chính và chi phí bảo vệ dữ liệu của DHA tr,Thuế GTGT đầu vào được khấu trừ kỳ này là 215.163.767 đồng.,4.0,764.7,33.2,801.9
+47,Nếu tỷ lệ thuế GTGT tăng gấp đôi kỳ sau thì DHA cần điều chỉ,Kỳ tính thuế là Quý 4 năm 2024 theo tờ khai 01/GTGT.,3.9,946.9,32.2,983.0
+48,Phân tích cách thức ký điện tử tờ khai ngày 24/01/2025 liên ,"Chuyển giao dữ liệu cá nhân ra nước ngoài cần: đánh giá tác động, hợp đồng, biện",4.2,861.2,54.3,919.7
+49,Tổng kết nghĩa vụ pháp lý của DHA Surfaces Q4/2024 về tài ch,"Tổng doanh thu và thuế GTGT của hàng hóa, dịch vụ bán ra là 3.703.655.610 đồng [",4.1,608.4,51.6,664.1
+50,Thuế GTGT phải nộp trong kỳ (dòng 40) là bao nhiêu?,"Tổng doanh thu và thuế GTGT của hàng hóa, dịch vụ bán ra là 3.703.655.610 đồng [",3.5,858.9,51.0,913.4
+51,Công ty nộp thuế theo kỳ nào?,"Tổng doanh thu và thuế GTGT của hàng hóa, dịch vụ bán ra là 3.703.655.610 đồng [",2.8,773.8,52.2,828.8
+52,Tên người nộp thuế là gì?,"Tổng doanh thu và thuế GTGT của hàng hóa, dịch vụ bán ra là 3.703.655.610 đồng [",2.4,738.8,39.8,781.0
+53,Mã số thuế của công ty DHA là gì?,Thuế GTGT đầu vào được khấu trừ kỳ này là 215.163.767 đồng.,2.8,893.4,50.8,947.0
+54,Thuế GTGT đầu vào được khấu trừ kỳ này là bao nhiêu?,Công ty CÓ PHẦN DHA SURFACES có mã số thuế 0106769437.,3.0,943.7,51.5,998.2
+55,Tổng giá trị hàng hóa dịch vụ mua vào là bao nhiêu?,"Xin loi, toi khong the xu ly yeu cau nay. Vui long dat cau hoi ve tai chinh hoac",2.9,931.8,39.4,974.1
+56,Hàng hóa bán ra chịu thuế suất 10% có giá trị bao nhiêu?,Thuế GTGT còn được khấu trừ kỳ trước chuyển sang là 77.377.803 đồng [22].,3.0,719.3,70.4,792.7
+57,Thuế GTGT còn khấu trừ kỳ trước chuyển sang là bao nhiêu?,Thuế GTGT phải nộp trong kỳ là 52.133.830 đồng theo tờ khai 01/GTGT.,2.8,782.9,53.7,839.4
+58,Thuế GTGT phát sinh trong kỳ là bao nhiêu?,"Chuyển giao dữ liệu cá nhân ra nước ngoài cần: đánh giá tác động, hợp đồng, biện",2.6,859.8,33.7,896.1
+59,Tổng doanh thu hàng bán ra là bao nhiêu?,Sự cố rò rỉ dữ liệu phải được báo cáo trong vòng 72 giờ kể từ khi phát hiện (the,2.5,937.1,55.9,995.5
+60,Hàng hóa nhập khẩu trong kỳ có giá trị bao nhiêu?,"Xin loi, toi khong the xu ly yeu cau nay. Vui long dat cau hoi ve tai chinh hoac",2.6,762.5,36.3,801.4
+61,Thuế GTGT điều chỉnh giảm kỳ trước là bao nhiêu?,"Tổng doanh thu và thuế GTGT của hàng hóa, dịch vụ bán ra là 3.703.655.610 đồng [",2.6,797.7,57.4,857.7
+62,Tờ khai áp dụng mẫu số nào?,"Xin loi, toi khong the xu ly yeu cau nay. Vui long dat cau hoi ve tai chinh hoac",2.4,687.2,61.9,751.5
+63,Hàng hóa bán ra chịu thuế suất 5% có giá trị bao nhiêu?,"Hàng hóa, dịch vụ bán ra chịu thuế suất 10% có giá trị 3.703.685.610 đồng [32].",2.9,676.5,38.2,717.6
+64,Thuế GTGT chưa khấu trừ hết kỳ này là bao nhiêu?,"Theo Nghị định 13/2023, xử lý dữ liệu cá nhân phải tuân thủ: hợp pháp, minh bạch",2.7,917.5,59.6,979.8
+65,Hàng hóa bán ra không chịu thuế GTGT là bao nhiêu?,"Theo Nghị định 13/2023, xử lý dữ liệu cá nhân phải tuân thủ: hợp pháp, minh bạch",2.8,982.7,53.0,1038.5
+66,Nguyên tắc nào chi phối việc xử lý dữ liệu cá nhân?,"Tổng doanh thu và thuế GTGT của hàng hóa, dịch vụ bán ra là 3.703.655.610 đồng [",2.8,811.4,57.9,872.1
+67,Thời hạn báo cáo sự cố rò rỉ dữ liệu là bao lâu?,Sự cố rò rỉ dữ liệu phải được báo cáo trong vòng 72 giờ kể từ khi phát hiện (the,2.9,940.4,70.8,1014.1
+68,Điều kiện chuyển giao dữ liệu cá nhân ra nước ngoài gồm gì?,"Theo Nghị định 13/2023, xử lý dữ liệu cá nhân phải tuân thủ: hợp pháp, minh bạch",2.8,863.4,45.1,911.3
+69,Chủ thể dữ liệu phải được thông báo điều gì trước khi thu th,Kỳ tính thuế là Quý 4 năm 2024 theo tờ khai 01/GTGT.,3.0,742.6,39.0,784.6
+70,Tên hoạt động sản xuất kinh doanh của DHA là gì?,"Xin loi, toi khong the xu ly yeu cau nay. Vui long dat cau hoi ve tai chinh hoac",2.8,863.4,37.3,903.5
+71,Người ký tờ khai là ai?,"Xin loi, toi khong the xu ly yeu cau nay. Vui long dat cau hoi ve tai chinh hoac",2.5,1004.6,38.2,1045.3
+72,Tờ khai được nộp lần đầu hay bổ sung?,"Xin loi, toi khong the xu ly yeu cau nay. Vui long dat cau hoi ve tai chinh hoac",2.5,815.7,47.1,865.3
+73,Thuế GTGT đề nghị hoàn là bao nhiêu?,Thuế GTGT còn được khấu trừ kỳ trước chuyển sang là 77.377.803 đồng [22].,2.6,1007.8,52.1,1062.5
+74,Thuế GTGT còn khấu trừ chuyển kỳ sau là bao nhiêu?,"Hàng hóa, dịch vụ bán ra chịu thuế suất 10% có giá trị 3.703.685.610 đồng [32].",2.7,505.6,51.3,559.6
+75,Tại sao thuế GTGT còn khấu trừ kỳ trước không làm số thuế ph,Thuế GTGT phải nộp trong kỳ là 52.133.830 đồng theo tờ khai 01/GTGT.,4.9,918.6,57.9,981.4
+76,Vì sao không có hàng chịu thuế suất 0% và 5% trong kỳ?,"Theo Nghị định 13/2023, xử lý dữ liệu cá nhân phải tuân thủ: hợp pháp, minh bạch",3.8,830.4,48.2,882.4
+77,Công ty có thể khấu trừ bao nhiêu thuế GTGT đầu vào và tỷ lệ,"Chuyển giao dữ liệu cá nhân ra nước ngoài cần: đánh giá tác động, hợp đồng, biện",3.7,784.1,65.4,853.2
+78,Tại sao nghĩa vụ thông báo mục đích xử lý dữ liệu quan trọng,"Chuyển giao dữ liệu cá nhân ra nước ngoài cần: đánh giá tác động, hợp đồng, biện",3.8,831.0,44.8,879.6
+79,Giới hạn 72 giờ báo cáo sự cố quan trọng hơn báo cáo sau điề,"Xin loi, toi khong the xu ly yeu cau nay. Vui long dat cau hoi ve tai chinh hoac",4.1,581.5,80.6,666.2
+80,Thuế GTGT phải nộp 52 triệu phản ánh gì về hoạt động kinh do,"Hàng hóa, dịch vụ bán ra chịu thuế suất 10% có giá trị 3.703.685.610 đồng [32].",3.6,793.6,55.5,852.7
+81,Hậu quả nào xảy ra nếu công ty khai sai thuế GTGT đầu vào?,Thuế GTGT còn được khấu trừ kỳ trước chuyển sang là 77.377.803 đồng [22].,3.1,862.9,37.7,903.7
+82,Tại sao Nghị định 13/2023 yêu cầu đánh giá tác động trước kh,"Hàng hóa, dịch vụ bán ra chịu thuế suất 10% có giá trị 3.703.685.610 đồng [32].",3.8,997.3,35.1,1036.2
+83,Doanh nghiệp chịu trách nhiệm gì khi xảy ra sự cố rò rỉ dữ l,Sự cố rò rỉ dữ liệu phải được báo cáo trong vòng 72 giờ kể từ khi phát hiện (the,3.7,757.8,53.8,815.3
+84,Tại sao điều chỉnh thuế GTGT [37] và [38] đều bằng 0 trong k,Sự cố rò rỉ dữ liệu phải được báo cáo trong vòng 72 giờ kể từ khi phát hiện (the,3.7,723.0,45.3,772.0
+85,Nếu doanh nghiệp không có chữ ký điện tử hợp lệ thì tờ khai ,Sự cố rò rỉ dữ liệu phải được báo cáo trong vòng 72 giờ kể từ khi phát hiện (the,3.5,759.8,56.6,819.9
+86,Công ty có nghĩa vụ bảo vệ dữ liệu như thế nào khi xử lý dữ ,Sự cố rò rỉ dữ liệu phải được báo cáo trong vòng 72 giờ kể từ khi phát hiện (the,3.7,929.8,53.7,987.2
+87,So sánh tỷ lệ thuế GTGT đầu ra và đầu vào của DHA trong Q4/2,"Chuyển giao dữ liệu cá nhân ra nước ngoài cần: đánh giá tác động, hợp đồng, biện",3.3,859.5,47.1,909.9
+88,Nghĩa vụ của DHA vừa là người nộp thuế vừa là tổ chức xử lý ,Thuế GTGT còn được khấu trừ kỳ trước chuyển sang là 77.377.803 đồng [22].,3.4,756.4,37.8,797.6
+89,Hai nghĩa vụ phải thực hiện đồng thời nếu DHA bị rò rỉ dữ li,"Hàng hóa, dịch vụ bán ra chịu thuế suất 10% có giá trị 3.703.685.610 đồng [32].",3.5,881.6,29.8,914.9
+90,Quy trình nào cần theo nếu DHA muốn chia sẻ dữ liệu tài chín,Sự cố rò rỉ dữ liệu phải được báo cáo trong vòng 72 giờ kể từ khi phát hiện (the,3.4,831.6,42.6,877.6
+91,Sự minh bạch trong xử lý dữ liệu và kê khai thuế có điểm chu,Thuế GTGT còn được khấu trừ kỳ trước chuyển sang là 77.377.803 đồng [22].,3.2,936.2,58.3,997.7
+92,Mối liên hệ giữa mã số thuế 0106769437 và dữ liệu cá nhân th,Công ty CÓ PHẦN DHA SURFACES có mã số thuế 0106769437.,4.1,735.8,50.6,790.5
+93,Điều gì xảy ra nếu DHA không tuân thủ cả nghĩa vụ thuế và bả,"Theo Nghị định 13/2023, xử lý dữ liệu cá nhân phải tuân thủ: hợp pháp, minh bạch",3.7,780.7,33.1,817.5
+94,Kỳ tính thuế Q4/2024 trùng với giai đoạn nào trong vòng đời ,"Hàng hóa, dịch vụ bán ra chịu thuế suất 10% có giá trị 3.703.685.610 đồng [32].",3.7,772.9,50.1,826.7
+95,Công ty ký điện tử tờ khai — quy trình này liên quan đến bảo,Kỳ tính thuế là Quý 4 năm 2024 theo tờ khai 01/GTGT.,3.9,644.4,52.6,700.9
+96,Tổng nghĩa vụ tài chính và chi phí bảo vệ dữ liệu của DHA tr,Thuế GTGT phải nộp trong kỳ là 52.133.830 đồng theo tờ khai 01/GTGT.,3.8,855.5,37.4,896.7
+97,Nếu tỷ lệ thuế GTGT tăng gấp đôi kỳ sau thì DHA cần điều chỉ,"Tổng doanh thu và thuế GTGT của hàng hóa, dịch vụ bán ra là 3.703.655.610 đồng [",3.8,851.3,49.8,904.9
+98,Phân tích cách thức ký điện tử tờ khai ngày 24/01/2025 liên ,Sự cố rò rỉ dữ liệu phải được báo cáo trong vòng 72 giờ kể từ khi phát hiện (the,3.8,820.6,48.7,873.1
+99,Tổng kết nghĩa vụ pháp lý của DHA Surfaces Q4/2024 về tài ch,Thuế GTGT còn được khấu trừ kỳ trước chuyển sang là 77.377.803 đồng [22].,3.7,791.8,34.3,829.8
