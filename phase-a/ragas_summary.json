@@ -1,0 +1,8 @@
+{
+  "faithfulness": 0.8087,
+  "answer_relevancy": 0.783,
+  "context_precision": 0.6716,
+  "context_recall": 0.7273,
+  "total_eval_cost_usd": 1.82,
+  "note": "Eval run on 50 questions using gpt-4o-mini."
+}
