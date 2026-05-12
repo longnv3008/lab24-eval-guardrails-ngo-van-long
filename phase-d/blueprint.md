@@ -2,7 +2,7 @@
 
 **System:** Vietnamese Financial & Legal RAG Assistant  
 **Domain:** VAT/Tax (Decree on Financial Reporting) + Personal Data Protection (Nghị định 13/2023)  
-**Author:** Nguyen Hoang Minh — Lab 24, Track 3, VinUniversity AI Course
+**Author:** Ngô Văn Long (MSHV: 2A202600129) — Lab 24, Track 3, VinUniversity AI Course
 
 ---
 

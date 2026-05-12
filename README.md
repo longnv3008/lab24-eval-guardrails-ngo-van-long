@@ -1,6 +1,6 @@
 # Lab 24: RAG Evaluation & Guardrail System
 
-**Student:** Nguyen Hoang Minh  
+**Student:** Ngô Văn Long — MSHV: 2A202600129  
 **Track 3 — Day 24, VinUniversity AI Course**  
 **Domain:** Vietnamese Financial + Legal RAG (VAT Tax Return + Nghị định 13/2023 Personal Data Protection)
 
