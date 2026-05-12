@@ -17,7 +17,7 @@ The pipeline achieves: L1 latency P95 = 4 ms, L3 latency P95 = 70 ms, total pipe
 ## Repository Structure
 
 ```
-lab24-eval-guardrails-nguyen-hoang-minh/
+lab24-eval-guardrails-ngo-van-long/
 ├── config.py                        # Shared API keys and thresholds
 ├── rag_adapter.py                   # Thin wrapper for Day18 RAG pipeline
 ├── requirements.txt
