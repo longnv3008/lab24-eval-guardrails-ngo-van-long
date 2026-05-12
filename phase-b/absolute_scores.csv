@@ -1,0 +1,61 @@
+﻿question,version,accuracy,relevance,conciseness,helpfulness,overall
+Thuế GTGT phải nộp trong kỳ (dòng 40) là bao nhiêu?,v1,4,4,4,2,3.5
+Thuế GTGT phải nộp trong kỳ (dòng 40) là bao nhiêu?,v2,5,4,3,3,3.75
+Công ty nộp thuế theo kỳ nào?,v1,2,3,3,3,2.75
+Công ty nộp thuế theo kỳ nào?,v2,3,3,5,5,4.0
+Tên người nộp thuế là gì?,v1,3,2,4,3,3.0
+Tên người nộp thuế là gì?,v2,4,5,4,3,4.0
+Mã số thuế của công ty DHA là gì?,v1,3,2,2,4,2.75
+Mã số thuế của công ty DHA là gì?,v2,5,5,4,5,4.75
+Thuế GTGT đầu vào được khấu trừ kỳ này là bao nhiêu?,v1,4,3,4,3,3.5
+Thuế GTGT đầu vào được khấu trừ kỳ này là bao nhiêu?,v2,4,3,3,5,3.75
+Tổng giá trị hàng hóa dịch vụ mua vào là bao nhiêu?,v1,3,2,2,2,2.25
+Tổng giá trị hàng hóa dịch vụ mua vào là bao nhiêu?,v2,3,5,3,5,4.0
+Hàng hóa bán ra chịu thuế suất 10% có giá trị bao nhiêu?,v1,3,4,2,3,3.0
+Hàng hóa bán ra chịu thuế suất 10% có giá trị bao nhiêu?,v2,4,5,4,5,4.5
+Thuế GTGT còn khấu trừ kỳ trước chuyển sang là bao nhiêu?,v1,3,4,2,4,3.25
+Thuế GTGT còn khấu trừ kỳ trước chuyển sang là bao nhiêu?,v2,5,3,5,5,4.5
+Thuế GTGT phát sinh trong kỳ là bao nhiêu?,v1,3,4,3,2,3.0
+Thuế GTGT phát sinh trong kỳ là bao nhiêu?,v2,4,4,3,4,3.75
+Tổng doanh thu hàng bán ra là bao nhiêu?,v1,2,4,4,3,3.25
+Tổng doanh thu hàng bán ra là bao nhiêu?,v2,5,3,5,3,4.0
+Hàng hóa nhập khẩu trong kỳ có giá trị bao nhiêu?,v1,4,3,4,4,3.75
+Hàng hóa nhập khẩu trong kỳ có giá trị bao nhiêu?,v2,5,3,3,4,3.75
+Thuế GTGT điều chỉnh giảm kỳ trước là bao nhiêu?,v1,2,4,4,2,3.0
+Thuế GTGT điều chỉnh giảm kỳ trước là bao nhiêu?,v2,5,4,4,3,4.0
+Tờ khai áp dụng mẫu số nào?,v1,2,3,3,2,2.5
+Tờ khai áp dụng mẫu số nào?,v2,3,3,5,3,3.5
+Hàng hóa bán ra chịu thuế suất 5% có giá trị bao nhiêu?,v1,2,4,3,2,2.75
+Hàng hóa bán ra chịu thuế suất 5% có giá trị bao nhiêu?,v2,5,3,3,5,4.0
+Thuế GTGT chưa khấu trừ hết kỳ này là bao nhiêu?,v1,3,4,2,3,3.0
+Thuế GTGT chưa khấu trừ hết kỳ này là bao nhiêu?,v2,5,5,4,3,4.25
+Hàng hóa bán ra không chịu thuế GTGT là bao nhiêu?,v1,4,4,4,2,3.5
+Hàng hóa bán ra không chịu thuế GTGT là bao nhiêu?,v2,5,4,4,5,4.5
+Nguyên tắc nào chi phối việc xử lý dữ liệu cá nhân?,v1,4,3,3,4,3.5
+Nguyên tắc nào chi phối việc xử lý dữ liệu cá nhân?,v2,4,3,3,3,3.25
+Thời hạn báo cáo sự cố rò rỉ dữ liệu là bao lâu?,v1,2,3,2,4,2.75
+Thời hạn báo cáo sự cố rò rỉ dữ liệu là bao lâu?,v2,5,3,5,3,4.0
+Điều kiện chuyển giao dữ liệu cá nhân ra nước ngoài gồm gì?,v1,2,2,4,4,3.0
+Điều kiện chuyển giao dữ liệu cá nhân ra nước ngoài gồm gì?,v2,3,3,3,3,3.0
+Chủ thể dữ liệu phải được thông báo điều gì trước khi thu thập?,v1,3,2,4,2,2.75
+Chủ thể dữ liệu phải được thông báo điều gì trước khi thu thập?,v2,4,5,4,3,4.0
+Tên hoạt động sản xuất kinh doanh của DHA là gì?,v1,4,2,4,4,3.5
+Tên hoạt động sản xuất kinh doanh của DHA là gì?,v2,5,4,3,4,4.0
+Người ký tờ khai là ai?,v1,3,2,2,2,2.25
+Người ký tờ khai là ai?,v2,5,4,4,4,4.25
+Tờ khai được nộp lần đầu hay bổ sung?,v1,3,3,4,2,3.0
+Tờ khai được nộp lần đầu hay bổ sung?,v2,5,5,5,3,4.5
+Thuế GTGT đề nghị hoàn là bao nhiêu?,v1,2,3,4,3,3.0
+Thuế GTGT đề nghị hoàn là bao nhiêu?,v2,3,3,3,3,3.0
+Thuế GTGT còn khấu trừ chuyển kỳ sau là bao nhiêu?,v1,4,3,2,3,3.0
+Thuế GTGT còn khấu trừ chuyển kỳ sau là bao nhiêu?,v2,3,4,4,3,3.5
+Tại sao thuế GTGT còn khấu trừ kỳ trước không làm số thuế phải nộp về 0?,v1,2,3,4,2,2.75
+Tại sao thuế GTGT còn khấu trừ kỳ trước không làm số thuế phải nộp về 0?,v2,3,5,5,3,4.0
+Vì sao không có hàng chịu thuế suất 0% và 5% trong kỳ?,v1,2,2,2,3,2.25
+Vì sao không có hàng chịu thuế suất 0% và 5% trong kỳ?,v2,4,4,3,4,3.75
+Công ty có thể khấu trừ bao nhiêu thuế GTGT đầu vào và tỷ lệ khấu trừ là bao nhiêu?,v1,2,2,3,2,2.25
+Công ty có thể khấu trừ bao nhiêu thuế GTGT đầu vào và tỷ lệ khấu trừ là bao nhiêu?,v2,4,4,4,4,4.0
+Tại sao nghĩa vụ thông báo mục đích xử lý dữ liệu quan trọng theo Nghị định 13/2023?,v1,3,4,4,4,3.75
+Tại sao nghĩa vụ thông báo mục đích xử lý dữ liệu quan trọng theo Nghị định 13/2023?,v2,5,5,4,3,4.25
+Giới hạn 72 giờ báo cáo sự cố quan trọng hơn báo cáo sau điều tra xong vì sao?,v1,2,3,2,2,2.25
+Giới hạn 72 giờ báo cáo sự cố quan trọng hơn báo cáo sau điều tra xong vì sao?,v2,5,5,5,3,4.5

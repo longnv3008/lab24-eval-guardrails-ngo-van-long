@@ -1,0 +1,11 @@
+question_id,human_winner,confidence,notes
+0,B,high,B cites specific amount 52.133.830 with line number [40]; A only paraphrases context without the number
+1,B,medium,B mentions both the tax period (Q4/2024) and the khai form type; A only gives the period
+2,B,high,B correctly names CONG TY CO PHAN DHA SURFACES in full; A gives partial name
+3,B,high,B quotes exact tax code 0106769437 directly; A gives correct answer but less precise
+4,tie,high,Both correctly state 215.163.767 dong with [25] reference; quality equivalent
+5,B,medium,B synthesizes the purchase amount and the implicit tax calculation; A only returns raw number
+6,tie,low,Both state 3.703.685.610 dong; minor difference in formatting but factually equivalent
+7,A,medium,A correctly references [22] line number with 77.377.803; B answer is vaguer
+8,B,high,B provides 129.511.633 with [36] marker; A omits the line reference
+9,B,medium,B gives both revenue [34] and tax [35] numbers; A only gives one figure
